@@ -1,0 +1,6 @@
+aiogram>=3.4,<4
+SQLAlchemy>=2.0
+aiosqlite
+httpx
+python-dotenv
+Pillow
